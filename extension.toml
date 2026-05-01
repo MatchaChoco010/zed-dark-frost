@@ -1,0 +1,7 @@
+id = "dark-frost-theme"
+name = "Dark Frost Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["ORITO Itsuki <orito.itsuki@gmail.com>"]
+description = "dark, dark frosted world..."
+repository = "https://github.com/MatchaChoco010/zed-dark-frost"
